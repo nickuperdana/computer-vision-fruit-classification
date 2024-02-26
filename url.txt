@@ -1,0 +1,2 @@
+URL Dataset = https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification
+URL Deployment = https://huggingface.co/spaces/nickuperdana/fruit_classification_using_computer_vision
